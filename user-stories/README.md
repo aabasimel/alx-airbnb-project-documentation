@@ -1,0 +1,3 @@
+- This document focuses on the **functional requirements** through user stories.
+- Each story can serve as a **development task** for implementing features in the platform.
+- Future iterations may include additional user stories for advanced features like messaging, wishlists, and dynamic pricing.
