@@ -34,7 +34,7 @@ The diagram is exported as **PNG** from Draw.io and stored in this directory.
 - **Diagram file:** `airbnb-use-case-diagram.png`
 
 ## 📷 Preview
-![Use Case Diagram](./use-case-diagram.png)
+![Use Case Diagram](./alx-airbnb-use-case-diagram.png)
 
 ---
 
